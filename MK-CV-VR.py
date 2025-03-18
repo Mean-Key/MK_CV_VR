@@ -1,6 +1,5 @@
 import cv2
 
-# Video Capture 설정
 cap = cv2.VideoCapture(0)  # 0번 카메라 사용
 
 # 사용 가능한 비디오 코덱 및 확장자 목록 설정
@@ -13,14 +12,14 @@ ext_list = list(fourcc_dict.keys())  # 확장자 리스트 생성
 current_ext_index = 0  # 현재 확장자 인덱스
 
 # 비디오 속성 설정
-fps = 20.0  # 초당 프레임 수
-frame_size = (int(cap.get(3)), int(cap.get(4)))  # 프레임 크기 가져오기
-out = None  # VideoWriter 객체 초기화
+fps = 20.0  
+frame_size = (int(cap.get(3)), int(cap.get(4))) 
+out = None  
 
-recording = False  # 녹화 상태 변수
+recording = False 
 
 while cap.isOpened():
-    ret, frame = cap.read()  # 카메라에서 프레임 읽기
+    ret, frame = cap.read() 
     if not ret:
         break
 
@@ -37,7 +36,7 @@ while cap.isOpened():
     
     cv2.imshow('Video Recorder', frame)  # 프레임 화면 출력
     
-    key = cv2.waitKey(1) & 0xFF  # 키 입력 받기
+    key = cv2.waitKey(1) & 0xFF  
     if key == 27:  # ESC 키 입력 시 종료
         break
     elif key == 32:  # Space 키 입력 시 녹화 시작/중지
