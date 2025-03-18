@@ -23,5 +23,8 @@
 
 ## 📸 실행 화면
 ![start](https://github.com/user-attachments/assets/9ef9c600-eee4-4d05-b3cf-a177b1cbb29b)
-
-
+![recode](https://github.com/user-attachments/assets/0498ecfb-25df-4955-ba1c-58d01695b700)
+![recode-mov](https://github.com/user-attachments/assets/753c6988-8968-499c-9757-bf83e18cf7b3)
+![recode-mp4](https://github.com/user-attachments/assets/12c70932-2b8f-4a22-a879-57f6fc74d4f6)
+![recode-avi](https://github.com/user-attachments/assets/23a66e2a-f57a-4a87-b0c0-a51d19482bda)
+https://github.com/user-attachments/assets/80eb0384-a9df-436e-a90e-a5166677bf6e
