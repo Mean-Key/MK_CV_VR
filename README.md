@@ -11,6 +11,8 @@ cap = cv2.VideoCapture(0)  # 0번 카메라 사용
 ```
 - ✅ **녹화 기능**: `Space` 키를 눌러 녹화를 시작/중지할 수 있습니다.
 ```python
+out = cv2.VideoWriter(f'output.{current_ext}', fourcc, fps, frame_size)  # 비디오 파일 생성
+
 elif key == 32:  # Space 키 입력 시 녹화 시작/중지
         recording = not recording
         if not recording and out is not None:
