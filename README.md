@@ -49,6 +49,8 @@ fourcc_dict = {
     'mov': cv2.VideoWriter_fourcc(*'MJPG'),  # MOV 형식의 코덱 설정
     'mp4': cv2.VideoWriter_fourcc(*'MP4V')   # MP4 형식의 코덱 설정
 }
+ext_list = list(fourcc_dict.keys())  # 확장자 리스트 생성
+current_ext_index = 0  # 현재 확장자 인덱스
 ```
 - 현재 선택된 확장자는 화면 좌측 상단에 <mark>노란색</mark>으로 표시됩니다.
 ```python
