@@ -20,7 +20,7 @@
 ## 🔄 추가 기능 - 저장 형식 변경
 - `F` 키를 누를 때마다 `.avi` → `.mov` → `.mp4` 순서로 변경됩니다.
 - 현재 선택된 확장자는 화면 좌측 상단에
-- <span style="color: #2D3748; background-color:#fff5b1;">노란색</span>
+  <span style="color: #2D3748; background-color:#fff5b1;">노란색</span>
 으로 표시됩니다.
 
 ## 📸 실행 화면
