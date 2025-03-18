@@ -48,6 +48,10 @@ fourcc_dict = {
 }
 ```
 - 현재 선택된 확장자는 화면 좌측 상단에 <mark>노란색</mark>으로 표시됩니다.
+```python
+# 현재 저장 확장자 표시 (노란색 텍스트)
+    cv2.putText(frame, f'.{ext_list[current_ext_index]}', (70, 55), cv2.FONT_HERSHEY_SIMPLEX, 0.6, (0, 255, 255), 2)
+```
 
 ## 📸 실행 화면
 - 프로그램 시작 화면 (동영상 파일의 확장자 표시)   
