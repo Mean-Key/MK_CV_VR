@@ -66,4 +66,6 @@ fourcc_dict = {
 - 파일 확장자 변경 화면 (`.mov` &rarr; `.avi`)   
 <img src="https://github.com/Mean-Key/MK_CV_VR/blob/main/screenshot/recode-mp4.png" width="600" height="400"/>   
 
-https://github.com/user-attachments/assets/80eb0384-a9df-436e-a90e-a5166677bf6e
+- 웹캠 녹화 화면 (`gif`로 변환)
+<img width="80%" src="https://github.com/Mean-Key/MK_CV_VR/blob/main/video/output.gif"/>
+
