@@ -22,7 +22,7 @@
 - 현재 선택된 확장자는 화면 좌측 상단에 표시됩니다.
 
 ## 📸 실행 화면
-<img src="(https://github.com/user-attachments/assets/9ef9c600-eee4-4d05-b3cf-a177b1cbb29b).JPG" height="100px" width="300px";>
+<img src="https://github.com/user-attachments/assets/9ef9c600-eee4-4d05-b3cf-a177b1cbb29b.jpg" height="100px" width="300px";>
 ![start](https://github.com/user-attachments/assets/9ef9c600-eee4-4d05-b3cf-a177b1cbb29b)
 ![recode](https://github.com/user-attachments/assets/0498ecfb-25df-4955-ba1c-58d01695b700)
 ![recode-mov](https://github.com/user-attachments/assets/753c6988-8968-499c-9757-bf83e18cf7b3)
