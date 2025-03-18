@@ -77,4 +77,4 @@ current_ext_index = 0  # 현재 확장자 인덱스
 
 - 웹캠 녹화 화면  
 <img width="80%" src="https://github.com/Mean-Key/MK_CV_VR/blob/main/video/output.gif"/>
-(README.md에 업로드를 위해 `gif`로 변환, 녹화된 화면에서는 **🔴 빨간 원**, **파일 확장자** 표시 :negative_squared_cross_mark:)
+(README.md에 업로드를 위해 `gif`로 변환, 녹화된 화면에서는 🔴 빨간 원, 파일 확장자 표시 :negative_squared_cross_mark:)
