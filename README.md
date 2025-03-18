@@ -22,6 +22,6 @@
 - 현재 선택된 확장자는 화면 좌측 상단에 표시됩니다.
 
 ## 📸 실행 화면
-_(스크린샷 또는 실행 영상 추가 예정)_
+<img width="863" alt="image" src="https://user-images.githubusercontent.com/60145951/162572357-a22b3d6f-9100-4dd5-8e68-4a2267de1e49.png">
 
 
