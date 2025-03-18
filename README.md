@@ -25,9 +25,9 @@
 <img src="https://github.com/Mean-Key/MK_CV_VR/blob/main/screenshot/start.png" width="600" height="400"/>   
 녹화 시작 화면 (**🔴 빨간 원** 표시)   
 <img src="https://github.com/Mean-Key/MK_CV_VR/blob/main/screenshot/recode-avi.png" width="600" height="400"/>   
-파일 확장자 변경 화면 (`.avi` -> `.mov`)   
+파일 확장자 변경 화면 (`.avi` &rarr; `.mov`)   
 <img src="https://github.com/Mean-Key/MK_CV_VR/blob/main/screenshot/recode-mov.png" width="600" height="400"/>   
-파일 확장자 변경 화면 (`.mov` -> `.avi`)   
+파일 확장자 변경 화면 (`.mov` &rarr; `.avi`)   
 <img src="https://github.com/Mean-Key/MK_CV_VR/blob/main/screenshot/recode-mp4.png" width="600" height="400"/>   
 
 https://github.com/user-attachments/assets/80eb0384-a9df-436e-a90e-a5166677bf6e
