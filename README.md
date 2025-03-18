@@ -7,10 +7,27 @@
 ## 🎥 기능 소개
 - ✅ **실시간 웹캠 영상 출력**: 화면에 현재 카메라 영상을 표시합니다.
 - ✅ **녹화 기능**: `Space` 키를 눌러 녹화를 시작/중지할 수 있습니다.
+```python
+elif key == 32:  # Space 키 입력 시 녹화 시작/중지
+        recording = not recording
+        if not recording and out is not None:
+            out.release()
+            out = None
+```
 - ✅ **녹화 중 표시 기능**: 화면 좌측 상단에 **🔴 빨간 원**으로 녹화 상태를 표시합니다.
+```python
+cv2.circle(frame, (50, 50), 10, (0, 0, 255), -1)  # 화면 왼쪽 상단에 녹화 표시 (빨간 원)
+```
 - ✅ **파일 확장자 변경**: `F` 키를 눌러 저장할 동영상 파일의 확장자를 변경할 수 있습니다. (`.avi`, `.mov`, `.mp4`)
+```python
+ elif key == ord('f'):  # 'F' 키 입력 시 저장할 동영상 파일 확장자 변경
+        current_ext_index = (current_ext_index + 1) % len(ext_list)  # 확장자 변경
+```
 - ✅ **프로그램 종료**: `ESC` 키를 눌러 프로그램을 종료할 수 있습니다.
-
+```python
+if key == 27:  # ESC 키 입력 시 종료
+        break
+```
 ## 🖥️ 사용 방법
 1. 프로그램 실행 후, 웹캠 영상이 화면에 표시됩니다.
 2. `Space` 키를 누르면 **녹화를 시작**합니다. 다시 누르면 **녹화를 중지**합니다.
