@@ -21,6 +21,8 @@
 - 현재 선택된 확장자는 화면 좌측 상단에 표시됩니다.
 
 ## 📸 실행 화면
-<img src="https://github.com/Mean-Key/MK_CV_VR/blob/main/screenshot/start.png" width="600" height="400" />
-
+<img src="https://github.com/Mean-Key/MK_CV_VR/blob/main/screenshot/start.png" width="600" height="400"/>
+<img src="https://github.com/Mean-Key/MK_CV_VR/blob/main/screenshot/recode-avi.png" width="600" height="400"/>
+<img src="https://github.com/Mean-Key/MK_CV_VR/blob/main/screenshot/recode-mov.png" width="600" height="400"/>
+<img src="https://github.com/Mean-Key/MK_CV_VR/blob/main/screenshot/recode-mp4.png" width="600" height="400"/>
 https://github.com/user-attachments/assets/80eb0384-a9df-436e-a90e-a5166677bf6e
