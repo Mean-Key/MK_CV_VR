@@ -52,6 +52,10 @@ fourcc_dict = {
 ext_list = list(fourcc_dict.keys())  # 확장자 리스트 생성
 current_ext_index = 0  # 현재 확장자 인덱스
 ```
+```python
+ elif key == ord('f'):  # 'F' 키 입력 시 저장할 동영상 파일 확장자 변경
+        current_ext_index = (current_ext_index + 1) % len(ext_list)  # 확장자 변경
+```
 - 현재 선택된 확장자는 화면 좌측 상단에 <mark>노란색</mark>으로 표시됩니다.
 ```python
 # 현재 저장 확장자 표시 (노란색 텍스트)
