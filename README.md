@@ -21,12 +21,13 @@
 - 현재 선택된 확장자는 화면 좌측 상단에 표시됩니다.
 
 ## 📸 실행 화면
-<img src="https://github.com/Mean-Key/MK_CV_VR/blob/main/screenshot/start.png" width="600" height="400"/>
 프로그램 시작 화면 (동영상 파일의 확장자 표시)
-<img src="https://github.com/Mean-Key/MK_CV_VR/blob/main/screenshot/recode-avi.png" width="600" height="400"/>
+<img src="https://github.com/Mean-Key/MK_CV_VR/blob/main/screenshot/start.png" width="600" height="400"/>
 녹화 시작 화면 (**🔴 빨간 원** 표시) 
-<img src="https://github.com/Mean-Key/MK_CV_VR/blob/main/screenshot/recode-mov.png" width="600" height="400"/>
+<img src="https://github.com/Mean-Key/MK_CV_VR/blob/main/screenshot/recode-avi.png" width="600" height="400"/>
 파일 확장자 변경 화면 (`.avi` -> `.mov`)
-<img src="https://github.com/Mean-Key/MK_CV_VR/blob/main/screenshot/recode-mp4.png" width="600" height="400"/>
+<img src="https://github.com/Mean-Key/MK_CV_VR/blob/main/screenshot/recode-mov.png" width="600" height="400"/>
 파일 확장자 변경 화면 (`.mov` -> `.avi`)
+<img src="https://github.com/Mean-Key/MK_CV_VR/blob/main/screenshot/recode-mp4.png" width="600" height="400"/>
+
 https://github.com/user-attachments/assets/80eb0384-a9df-436e-a90e-a5166677bf6e
