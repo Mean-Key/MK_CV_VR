@@ -39,6 +39,14 @@ if key == 27:  # ESC 키 입력 시 종료
 
 ## 🔄 추가 기능 - 저장 형식 변경
 - `F` 키를 누를 때마다 `.avi` → `.mov` → `.mp4` 순서로 변경됩니다.
+```python
+# 사용 가능한 비디오 코덱 및 확장자 목록 설정
+fourcc_dict = {
+    'avi': cv2.VideoWriter_fourcc(*'XVID'),  # AVI 형식의 코덱 설정
+    'mov': cv2.VideoWriter_fourcc(*'MJPG'),  # MOV 형식의 코덱 설정
+    'mp4': cv2.VideoWriter_fourcc(*'MP4V')   # MP4 형식의 코덱 설정
+}
+```
 - 현재 선택된 확장자는 화면 좌측 상단에 <mark>노란색</mark>으로 표시됩니다.
 
 ## 📸 실행 화면
