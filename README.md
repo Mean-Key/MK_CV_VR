@@ -73,8 +73,8 @@ current_ext_index = 0  # 현재 확장자 인덱스
 <img src="https://github.com/Mean-Key/MK_CV_VR/blob/main/screenshot/recode-mov.png" width="600" height="400"/>   
 
 - 파일 확장자 변경 화면 (`.mov` &rarr; `.avi`)   
-<img src="https://github.com/Mean-Key/MK_CV_VR/blob/main/screenshot/recode-mp4.png" width="600" height="400"/>   
+<img src="https://github.com/Mean-Key/MK_CV_VR/blob/main/screenshot/recode-mp4.png" width="600" height="400"/>    
 
-- 웹캠 녹화 화면 (README.md에 업로드를 위해 `gif`로 변환, **🔴 빨간 원**, **파일 확장자** 표시 :negative_squared_cross_mark:)
+- 웹캠 녹화 화면  
 <img width="80%" src="https://github.com/Mean-Key/MK_CV_VR/blob/main/video/output.gif"/>
-
+(README.md에 업로드를 위해 `gif`로 변환, 녹화된 화면에서는 **🔴 빨간 원**, **파일 확장자** 표시 :negative_squared_cross_mark:)
